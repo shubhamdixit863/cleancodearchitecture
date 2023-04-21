@@ -1,0 +1,1 @@
+###  This project is a simple example of a Golang application following the Clean Architecture principles, as proposed by Uncle Bob. It demonstrates a basic CRUD operation for a "User" entity using the Gin framework.
